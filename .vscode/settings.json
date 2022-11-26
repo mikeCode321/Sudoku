@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx-swt.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.base.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.controls.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.fxml.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.graphics.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.media.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.swing.jar",
+        "/Users/maiklzaki/Desktop/javafx-sdk-19/lib/javafx.web.jar"
+    ]
+}
