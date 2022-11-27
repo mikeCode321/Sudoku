@@ -9,6 +9,14 @@
             "name": "Launch SudokuGame",
             "request": "launch",
             "mainClass": "SudokuGame",
+            "projectName": "Sudoku_8e1b6fb4",
+            "vmArgs": "--module-path /Users/maiklzaki/Desktop/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml,javafx.media,javafx.graphics"
+        },
+        {
+            "type": "java",
+            "name": "Launch SudokuGame",
+            "request": "launch",
+            "mainClass": "SudokuGame",
             "projectName": "sudokuGame_b80459a6",
             "vmArgs": "--module-path /Users/maiklzaki/Desktop/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml,javafx.media,javafx.graphics"
         }

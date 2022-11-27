@@ -1,7 +1,7 @@
-import framework.board.InteractingBoard;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import script.board.InteractingBoard;
 
 public class SudokuGame extends Application{
     InteractingBoard interactingBoard = new InteractingBoard();
